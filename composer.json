@@ -1,6 +1,6 @@
 {
     "name": "backendservice/backendservice-cicd",
-    "type": "projecct",
+    "type": "project",
     "autoload": {
         "psr-4": {
             "Backendservice\\BackendserviceCicd\\": "src/"
