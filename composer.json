@@ -1,0 +1,16 @@
+{
+    "name": "backendservice/backendservice-cicd",
+    "type": "projecct",
+    "autoload": {
+        "psr-4": {
+            "Backendservice\\BackendserviceCicd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samuele Garbuglia",
+            "email": "samuele.garbuglia@backendservice.dev"
+        }
+    ],
+    "require": {}
+}
